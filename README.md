@@ -19,8 +19,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateek973&show_icons=true&locale=en" alt="prateek973" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek973&" alt="prateek973" /></p>
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
